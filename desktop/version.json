@@ -1,1 +1,7 @@
-{"version":"2026-07-26.2","hash":"41572539e7f2b1c164728a72ddffdf5ae6e6b1b1d2ea424b0f97b3f4517031a4","sig":"uqzz5on7sxARPSM4abt6pI9xtDbiRn0v9sbfLHsu8pjaPFcKmA7Jn0zEXGJ31K1Q2MAvFaQNMFV+ye6bU1CtBA=="}
+{
+  "signature_version": 2,
+  "channel": "desktop",
+  "version": "2026-08-24.1",
+  "hash": "09f8d9af0f04ec5985edc5d2c602f6aeb1fa1e6cc1af490e1df0f1e19877d034",
+  "sig": "TSIKvHMZuOGtOq72o2TRtxLOAQuD8smmUg7xIa+1Vcl+lLDL+OQh9I2Nbt4YMZGTOh0AlUxP91ICEjQAZrS/Ag=="
+}

@@ -1,1 +1,7 @@
-{"version":"2026-07-26.2","hash":"3542b630e711e199e4a4c17a22821d98e4b1523eff713744f5abb9e2415922b9","sig":"P3poSsXc4++SePfnyczbpNfnZhYEA0sTHZi39mZspuCQ/EC5LPtmhHbSdnyEf6mKtETCJ6V1DaobDY3fWFQgDA=="}
+{
+  "signature_version": 2,
+  "channel": "lan",
+  "version": "2026-08-24.1",
+  "hash": "908ee5044477f5fce6e52b3a1b1959553483955ac2dc4acc022eac42a713aa0f",
+  "sig": "UYMwILuYqfk1zqWqNFfL24oMBZz+BABWKu14X/e+omZdWVlM3Oo9TK616h+gxr28zssNr26pHXqmvKBoz29gDQ=="
+}
