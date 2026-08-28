@@ -1,7 +1,7 @@
 {
   "signature_version": 2,
   "channel": "lan",
-  "version": "2026-08-27.1",
-  "hash": "a8d7e040647a88aa1d23412eff9f6f79eb0046ffc306c568b80475e894d902e6",
-  "sig": "fvm41USJXQacgaObTholByPaqmTIWqKj6krgjZ1bwVCGzauCuZWnwM8x0cA05ID2BxCsGJqyWYUTKFysgHAfBQ=="
+  "version": "2026-08-28.1",
+  "hash": "446db31fca3eb74ab7ba107e2840c00eb92abf97a66899d63bbcc6505a42c171",
+  "sig": "ZSFAiXED996tA8x7Ax4AOlpXa8dOpPqG5HxmHaXt76RZNbTKS6/666/2yAFfXYs98bNXzkFxiVsVPiFsDNVuAA=="
 }
